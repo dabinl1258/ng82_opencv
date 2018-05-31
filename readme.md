@@ -2,5 +2,5 @@
 
 ## [alpha blending ](doc\change_pix\change_pix )
 
-## [grey scale ](doc\greyScale\grey.md  )
+## [grey scale ](doc\greyScale\grey)
 
