@@ -68,7 +68,7 @@ img_result.at<Vec3b>(x, y) = (1 - alpha) * img.at<Vec3b>(x, y) +  alpha * img2.a
 
 ![](alpha0.JPG)
 
-![](Dalpha0.3.JPG)
+![](alpha0.3.JPG)
 
 ![alpha0.5](alpha0.5.JPG)
 
