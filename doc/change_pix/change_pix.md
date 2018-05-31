@@ -75,3 +75,5 @@ img_result.at<Vec3b>(x, y) = (1 - alpha) * img.at<Vec3b>(x, y) +  alpha * img2.a
 ![alpha0.7](alpha0.7.JPG)
 
 ![](alpha1.JPG)
+
+sample code from  github [https://github.com/dabinl1258/ng82_opencv/tree/master/test_code/alpha_test](https://github.com/dabinl1258/ng82_opencv/tree/master/test_code/alpha_test)

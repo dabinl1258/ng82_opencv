@@ -33,3 +33,6 @@ result.at<uchar>(x, y) = (vec.val[0] + vec.val[1] + vec.val[2]) / 3;
 ![](grey.JPG)
 
 ![](bin_grey.JPG)
+
+sample code from github [https://github.com/dabinl1258/ng82_opencv/tree/master/test_code/grey_test](https://github.com/dabinl1258/ng82_opencv/tree/master/test_code/grey_test)
+
