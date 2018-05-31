@@ -62,17 +62,16 @@ img_result.at<Vec3b>(x, y) = (1 - alpha) * img.at<Vec3b>(x, y) +  alpha * img2.a
 
 
 
-![](D:\git\ng82_opencv\doc\change_pix\tset.jpg)
+![](tset.jpg)
 
-![](D:\git\ng82_opencv\doc\change_pix\tset.2jpg.JPG)
+![](tset.2jpg.JPG)
 
-![](D:\git\ng82_opencv\doc\change_pix\alpha0.JPG)
+![](alpha0.JPG)
 
-![](D:\git\ng82_opencv\doc\change_pix\alpha0.3.JPG)
+![](Dalpha0.3.JPG)
 
-![alpha0.5](D:\git\ng82_opencv\doc\change_pix\alpha0.5.JPG)
+![alpha0.5](alpha0.5.JPG)
 
-![alpha0.7](D:\git\ng82_opencv\doc\change_pix\alpha0.7.JPG)
+![alpha0.7](alpha0.7.JPG)
 
-![](D:\git\ng82_opencv\doc\change_pix\alpha1.JPG)
-
+![](alpha1.JPG)
